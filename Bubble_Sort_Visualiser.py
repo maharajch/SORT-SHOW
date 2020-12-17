@@ -11,7 +11,7 @@ from bubble_sort import bubble
 
 #initialising root
 root = Tk()
-root.title("Sorting Algorithms Visualizer")
+root.title("SORT SHOW")
 root.maxsize(900,600)
 root.config(bg="Black")
 
